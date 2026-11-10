@@ -1,34 +1,34 @@
-## Fernando Castro
+# Fernando Castro
 
-AI / ML Engineer · Data Scientist · Lima, Peru
+**Data Engineer & Analyst | Lima, Peru**  
+[LinkedIn](https://linkedin.com/in/fernandocastrov)
 
-[LinkedIn](https://linkedin.com/in/FernandoMcv)
+Bachiller en Ingeniería de Sistemas con 2.5 años de experiencia técnica. En el sector industrial (Cautin Rubber Company), desarrollé como único responsable un ERP interno en Python/SQLite (24 tablas normalizadas) y pipelines ETL para datos de comercio exterior e inventario. 
 
----
-
-### Projects
-
-| Repository | Stack | Description |
-|:---|:---|:---|
-| [plant-disease-vision-transformers](https://github.com/FernandoMcv/plant-disease-vision-transformers) | PyTorch · HuggingFace · timm | Fine-tuning of ViT, BEiT and Mamba-SSM for 9-class plant disease classification |
-| [cafe-diagnostic-tool-android](https://github.com/FernandoMcv/cafe-diagnostic-tool-android) | Kotlin · PyTorch Mobile · Supabase | Android app with on-device ML inference via quantized PyTorch Lite model |
-| [genai-portfolio](https://github.com/FernandoMcv/genai-portfolio) | OpenAI · LangChain · ChromaDB | Applied generative AI: RAG pipelines, prompt engineering, LLM API integration |
-| [desktop-enterprise-erp-python](https://github.com/FernandoMcv/desktop-enterprise-erp-python) | Python · PyQt6 · SQLite | Desktop ERP with SUNAT REST API integration and Clean Architecture |
-| [quotation-builder-electron](https://github.com/FernandoMcv/quotation-builder-electron) | React 19 · Electron 42 · Vite | Full-stack desktop app with WYSIWYG drag-and-drop quotation builder |
+Complemento mi experiencia con desarrollo de software y proyectos de Machine Learning (Computer Vision).
 
 ---
 
-### Stack
+### Public Projects & Repositories
 
-Python · PyTorch · Hugging Face Transformers · scikit-learn · OpenCV  
-Kotlin · Android · Jetpack Compose · Room  
-React · Electron · Vite · SQLite · Supabase (PostgreSQL)  
-Git · GitHub Actions
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[cafe-diagnostic-tool-android](https://github.com/FernandoMcv/cafe-diagnostic-tool-android)** | `Kotlin · PyTorch Mobile · Supabase` | Offline-first Android app for on-device plant disease diagnosis with bidirectional PostgreSQL sync. |
+
+*(Nota: Mis proyectos de benchmarking de tesis y sistemas empresariales se mantienen en entornos privados por derechos académicos y de autor).*
 
 ---
 
-### Currently building
+### Tech Stack
 
-- Uploading Vision Transformers fine-tuning project (ViT, BEiT, Mamba-SSM)
-- Developing RAG pipeline with LangChain and ChromaDB
-- Exploring MLOps tooling (W&B, FastAPI model serving)
+- **Data Engineering & Analysis:** Python, SQL, Pandas, NumPy, ETL Pipelines, Data Modeling, Data Quality, Power BI, Excel.
+- **Databases & Tools:** SQLite, PostgreSQL (Supabase), SQL Server, Git, GitHub Actions.
+- **Machine Learning & Vision:** PyTorch, scikit-learn, OpenCV, Computer Vision.
+- **Software Development:** Kotlin (Android), PyQt6.
+
+---
+
+### Currently Learning & Building
+
+- Cloud Data Engineering on AWS (AWS Glue, S3, Data Lakehouse).
+- Advanced ETL pipelines and automated data quality validation.
